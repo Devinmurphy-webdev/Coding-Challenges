@@ -17,4 +17,4 @@ function smash (words){
 
 smash('Hi', 'my', 'name', 'is', 'devin') // => 'Hi my name is devin'
 smash('cool') // => 'cool'
-smash('We', 'don't', 'get', 'got') // => 'We don't get got'
+smash('We', 'don\'t', 'get', 'got') // => 'We don't get got'
